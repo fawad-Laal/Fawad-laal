@@ -35,5 +35,7 @@ Advancing responsible AI deployment in high-stakes environments.
 
 ---
 
-fawadhs.dev  
+[fawadhs.dev](https://fawadhs.dev/)
+
 fawad@fawadhs.dev
+
